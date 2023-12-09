@@ -1,5 +1,5 @@
---- a/arch/arm64/configs/vendor/<device_defconfig>
-+++ b/arch/arm64/configs/vendor/<device_defconfig>
+--- a/<device_defconfig>
++++ b/<device_defconfig>
 @@ -101,10 +101,11 @@ CONFIG_AF_NOISE_ELIMINATION=y
  CONFIG_JUMP_LABEL=y
  CONFIG_SHADOW_CALL_STACK=y
